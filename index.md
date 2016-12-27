@@ -1,1 +1,1 @@
-<h1>There is nothing there now -_-!</h1>
+<h1>There is nothing now -_-!</h1>
